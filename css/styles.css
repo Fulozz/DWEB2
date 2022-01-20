@@ -71,7 +71,8 @@ div{
     width      : 20%;
 }
 .cara-feia{
-    width: 75%;
+    margin: auto;
+    width : 75%;
 }
 .js-skills{
     text-align: right;
